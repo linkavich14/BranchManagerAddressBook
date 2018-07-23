@@ -26,9 +26,9 @@ different email accounts, etc. They would be add as another container of objects
 
 # Assumptions 
 
-Contact name cannot be empty but can contain numbers and/or letters.
-Contact number cannot be empty and cannot contain any letters and/or special characters, however it can contain only one digit.
-Contact cannot have duplicated contact numbers associated to it.
-An address book can be empty and still be added, as long as it has a name.
-Maintain is defined as adding and removing entries.
-A duplicated contact and a duplicated Address Book will be considered duplicated only when they have the same name.
+ - Contact name cannot be empty but can contain numbers and/or letters.
+ - Contact number cannot be empty and cannot contain any letters and/or special characters, however it can contain only one digit.
+ - Contact cannot have duplicated contact numbers associated to it.
+ - An address book can be empty and still be added, as long as it has a name.
+ - Maintain is defined as adding and removing entries.
+ - A duplicated contact and a duplicated Address Book will be considered duplicated only when they have the same name.
