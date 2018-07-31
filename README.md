@@ -1,6 +1,6 @@
 # BranchManagerAddressBook
 
-As a Reece Branch Manager I would like an address book application on my PC So that I can keep track of my customer contacts
+As a Branch Manager I would like an address book application on my PC So that I can keep track of my customer contacts
 
 Acceptance Criteria
  - Address book will hold name and phone numbers of contact entries
